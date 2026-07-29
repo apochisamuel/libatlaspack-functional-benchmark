@@ -1,0 +1,7 @@
+{
+  "task_id": "SAFE-07-cycle-witness-priority",
+  "title": "Deterministic self-loop cycle witness",
+  "baseline_archive": "libatlaspack-safe-contracts-r6-20260729.zip",
+  "baseline_sha256": "cecfc5eea5f7d8d8fa3490857ba4e92c5f4597f3e1ab9272748e87cb810e79ec",
+  "classification": "safe functional correctness"
+}
